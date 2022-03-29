@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="361.005"
+   height="263.672"
+   viewBox="0 0 95.516414 69.763624"
+   version="1.1"
+   id="svg21680"
+   inkscape:version="1.2-alpha1 (b6a15bbbed, 2022-02-23)"
+   sodipodi:docname="full_stack_developer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21682"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2938725"
+     inkscape:cx="149.93749"
+     inkscape:cy="199.78785"
+     inkscape:window-width="1392"
+     inkscape:window-height="936"
+     inkscape:window-x="331"
+     inkscape:window-y="285"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs21677">
+    <rect
+       x="355.22775"
+       y="91.812714"
+       width="203.29958"
+       height="97.277756"
+       id="rect84330" />
+    <rect
+       x="355.22775"
+       y="91.812714"
+       width="203.29958"
+       height="97.277756"
+       id="rect84330-0" />
+    <rect
+       x="355.22775"
+       y="91.812714"
+       width="203.29958"
+       height="97.277756"
+       id="rect84330-0-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.4799142,-20.144488)">
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ff530d;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path23237"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="68.249275"
+       sodipodi:cy="42.800388"
+       sodipodi:r1="35.181702"
+       sodipodi:r2="30.468248"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 98.717523,60.391239 68.249275,77.98209 37.781028,60.391239 l 0,-35.181702 L 68.249275,7.6186867 98.717523,25.209538 Z"
+       transform="matrix(0.57760666,0,0,-0.57760666,17.1025,78.149844)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#3ea8ff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path23237-3"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="68.249275"
+       sodipodi:cy="42.800388"
+       sodipodi:r1="35.181702"
+       sodipodi:r2="30.468248"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 98.717523,60.391239 68.249275,77.98209 37.781028,60.391239 l 0,-35.181702 L 68.249275,7.6186867 98.717523,25.209538 Z"
+       transform="matrix(0.57760666,0,0,-0.57760666,7.4142277,92.18113)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#c9c9c9;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path48136"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="68.249275"
+       sodipodi:cy="42.800388"
+       sodipodi:r1="35.181702"
+       sodipodi:r2="30.468248"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 98.717523,60.391239 68.249275,77.98209 37.781028,60.391239 l 0,-35.181702 L 68.249275,7.6186867 98.717523,25.209538 Z"
+       transform="matrix(0.57760666,0,0,-0.57760666,26.790766,92.18113)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-64.670223,-6.7933994)"
+       id="text84328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Hobo;-inkscape-font-specification:'Hobo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect84330);fill:#ff530d;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"><tspan
+         x="399.87793"
+         y="133.8125"
+         id="tspan130134">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-101.7607,53.444602)"
+       id="text84328-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Hobo;-inkscape-font-specification:'Hobo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect84330-0);fill:#3ea8ff;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"><tspan
+         x="414.87793"
+         y="133.8125"
+         id="tspan130136">API</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-25.294275,53.669656)"
+       id="text84328-6-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Hobo;-inkscape-font-specification:'Hobo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect84330-0-2);fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"><tspan
+         x="426.87793"
+         y="133.8125"
+         id="tspan130138">UX</tspan></text>
+  </g>
+</svg>
