@@ -1,0 +1,45 @@
+Shawn Martin-Truesdell
+Creative Leader, Full-Stack Engineer, and Designer
+17 years User Experience Design
+8 years Full Stack Development
+12 years Project Leadership
+
+Experience:
+The MASYC Group, Inc.
+Developer 2017 - 2022
+Revolutionized development processes by introducing source control, task tracking, and code review best practices
+Designed, developed, and delivered web applications using Typescript, React, REST and GraphQL APIs, and the AWS Cloud
+Architected the front-end and back-end for a cross-platform Accounts Payable mobile application using Typescript with React Native
+Developed Salesforce customizations for customer-centric business processes including Lightning, Apex, and Admin/Setup tooling
+Evangelized, configured, and maintained CI/CD pipelines to provide reliable and repeatable deployments
+Mentored and cross-trained developers to build web development expertise
+
+Amazon.com
+Design Technologist 2013 - 2017
+Provided front end web development for the Alexa Skills Kit web application
+Designed and provided UI development support for Amazon Web Services consoles including the home page, EC2, ECS, S3, DynamoDB, Amazon Cognito, Elastic Beanstalk, Mobile Hub, and the Amazon Web Services Mobile App
+Contributed principal design and technology expertise to the Alexa and AWS Design Systems
+Engaged with User Research to develop and execute test plans to maximize customer engagement
+
+Glu Mobile Inc. (formerly Griptonite Games)
+Senior Game Designer & Design Manager 2005 - 2013
+Drove game studio design standards, mentoring, and provided development and creative vision-holding on 12 shipped products
+
+Education:
+The University of Puget Sound 1999-2003 : Fine Art, Computer Science, Mathematics
+
+Certifications:
+Certified Salesforce Platform Developer I
+Certified Professional Scrum Master I
+
+Skills:
+HTML5
+Sass and Post-CSS
+TypeScript and JavaScript
+NodeJS
+React and React Native
+Amazon Web Services, Google Cloud and Cloud Architecture
+Docker and Kubernetes
+C#, Java, Rust, Go, Ruby on Rails
+UX Design, Web User Experience, Mobile User Experience, User Researc
+Project Management, Agile Development, Product Ownership
