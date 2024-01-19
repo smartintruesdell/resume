@@ -467,7 +467,6 @@ address i { margin-left: 0.3rem; }
 .logos {
   background: var(--background-color-light);
   background: linear-gradient(42deg, var(--background-color-light) 0%, var(--background-color-light-highlight) 100%);
-  margin-bottom: 1rem;
 }
 .logos header { display: none; }
 .logos ul {
@@ -514,10 +513,12 @@ address i { margin-left: 0.3rem; }
 }
 
 .job {
-  padding: 0 3rem 0.5rem;
+  padding: 1rem 3rem 0;
   font-size: 1rem;
   width: 100%;
 }
+.job:nth-of-type(3) { padding-top: 2rem; }
+.job:last-of-type { padding-bottom: 1.5rem; }
 .job .title {
   display: flex;
   flex-flow: row nowrap;
@@ -572,13 +573,16 @@ address i { margin-left: 0.3rem; }
   justify-content: center;
   align-items: center;
   list-style: none;
-  padding: 0 0 0 2.5rem;
+  padding: 0;
   margin: 0;
 }
 .edu li {
-  margin: 0 0.8rem;
   color: var(--font-color-emphasis);
   font-size: 1.5em;
+}
+.edu li:not(:first-of-type):before {
+  content: '·';
+  padding: 0 0.5rem;
 }
 .edu img {
   height: 3rem;
@@ -619,14 +623,14 @@ address i { margin-left: 0.3rem; }
   width: 50%;
 }
 .skills .column:first-of-type {
-  padding-right: 0.25rem;
+  padding-right: 0.5rem;
 }
 .skills .column:not(:first-of-type) {
-  padding-left: 0.25rem;
+  padding-left: 0.5rem;
 }
 
 .skills dl { margin: 0; }
-.skills dt { font-size: 1.2rem; margin-bottom: -0.5rem; font-weight: bold; }
+.skills dt { font-size: 1.4rem; margin-bottom: -0.5rem; font-weight: bold; }
 .skills dd { margin: 0; }
 .skills ul {
   padding: 0;
@@ -636,14 +640,17 @@ address i { margin-left: 0.3rem; }
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  justify-content: flex-start;
-  font-size: 1.15rem;
+  justify-content: space-between;
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
 }
 .skills figcaption {
   width: 40%;
+  white-space: nowrap;
+  font-weight: bold;
 }
 .skills .bar {
-  height: 19px;
+  height: 14px;
   flex: 0;
   opacity: 80%;
 }
@@ -659,7 +666,8 @@ address i { margin-left: 0.3rem; }
 /* .skills .bar.bar-10 { width: 220px} */
 .skills .quantity {
   flex: 2;
-  padding-left: 0.25rem;
+  text-align: right;
+  padding: 0 0.5rem;
 }
 
 .date {
